@@ -11,3 +11,5 @@ _**Clean**_ the data to prepare it for analysis. This often involves purging dup
 
 _**Analyze**_ the data. By manipulating the data using various data analysis techniques and tools, you can begin to find trends, correlations, outliers, and variations that begin to tell a story. During this stage, you might use data mining to discover patterns within databases or data visualization software to help transform data into an easy-to-understand graphical format.
 
+Thanks for Reading
+
